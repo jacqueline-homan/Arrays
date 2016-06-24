@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/Arrays/Arrays/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Arrays/Arrays/bin/Debug/Arrays.exe.mdb
+/home/jacque/Projects/F-sharp/Arrays/Arrays/bin/Debug/Arrays.exe
+/home/jacque/Projects/F-sharp/Arrays/Arrays/obj/x86/Debug/Arrays.exe
+/home/jacque/Projects/F-sharp/Arrays/Arrays/obj/x86/Debug/Arrays.exe.mdb
